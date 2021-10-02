@@ -6,6 +6,8 @@ Mariana Fialho Ferreira‡
 Marcelo de Oliveira Passos§                     
 Julia Gallego Ziero Uhr¶                   
 
+link: https://www.scielo.br/j/rbe/a/KkYHXdsxP7nXzLRBCbY64Vq/abstract/?lang=en 
+
 **Abstract**                    
 
  The purpose of this paper is to test the effect of human capital
