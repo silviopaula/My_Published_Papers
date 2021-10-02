@@ -12,7 +12,7 @@ link: https://www.revistas.usp.br/ecoa/article/view/175247
 https://basedosdados.org/dataset/br-ibge-censo-demografico
 
 **Resumo**                
-O objetivo deste artigo é testar se a ética protestante apresenta efeito sobre o comportamento dos brasileiros em duas áreas: (i) mercado de tra-balho e empreendedorismo, e (ii) estrutura familiar. Utilizaram-se os mi-crodados do censo demográfico brasileiro de 2010. O censo apresentaum plano amostral complexo, então aplicaram-se três diferentes métodosde estimação com pareamento para amostras complexas. Os resultadosmostraram que o tratamento do protestantismo apresentou efeito signifi-cativo sobre as variáveis de resultado no sentido proposto por Max Weber.
+O objetivo deste artigo é testar se a ética protestante apresenta efeito sobre o comportamento dos brasileiros em duas áreas: (i) mercado de tra-balho e empreendedorismo, e (ii) estrutura familiar. Utilizaram-se os microdados do censo demográfico brasileiro de 2010. O censo apresentaum plano amostral complexo, então aplicaram-se três diferentes métodosde estimação com pareamento para amostras complexas. Os resultadosmostraram que o tratamento do protestantismo apresentou efeito signifi-cativo sobre as variáveis de resultado no sentido proposto por Max Weber.
 
 **Palavras-chave:** Ética Protestante, Propensity Score Matching, Survey Data
 
