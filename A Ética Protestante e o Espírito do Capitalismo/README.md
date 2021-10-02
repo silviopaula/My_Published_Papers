@@ -1,36 +1,25 @@
-# EVIDÊNCIAS ADICIONAIS DA RELAÇÃO ENTRE EMPREENDEDORISMO E CRESCIMENTO ECONÔMICO
+# A ÉTICA PROTESTANTE E O ESPÍRITO DO CAPITALISMO: PREFERÊNCIAS QUANTO AO MERCADO DE TRABALHO, EMPREENDEDORISMO E A ESTRUTURA FAMILIAR NO BRASIL
 
-Silvio da Rosa Paula              
-Daniel de Abreu Pereira Uhr                     
-Júlia Gallego Ziero Uhr                                 
+Daniel de Abreu Pereira Uhr*                                
+Silvio da Rosa Paula†                                
+Marcus Vinicius Bastos dos Santos‡                                      
+Luciane Machim Vieira§                       
+Júlia Gallego Ziero Uhr¶                                                   
 
-link: https://online.unisc.br/seer/index.php/cepe/article/viewFile/8881/6078
+link: https://www.revistas.usp.br/ecoa/article/view/175247
 
+**Nota** os microdados do censo 2010 podem ser baixados aqui:               
+https://basedosdados.org/dataset/br-ibge-censo-demografico
 
 **Resumo**                
-O objetivo deste artigo é investigar a influência do empreendedorismo no 
-crescimento econômico. Utiliza-se três variáveis de empreendedorismo extraídas do Global 
-Entrepreneurship Monitor juntamente com o índice de competitividade global elaborado pelo 
-World Economic Forum, um indicador que captura o conjunto de instituições, políticas e 
-fatores que definem o níveis atuais e médio prazo sustentáveis de prosperidade econômica. 
-Para o modelo empírico utiliza-se o método de dados em painel com controle para efeitos 
-fixos, para o período entre 2006 a 2014. Os resultados demonstram que o empreendedorismo 
-é um fator importante para explicar o crescimento econômico, todavia seu impacto depende 
-do estágio do desenvolvimento econômico dos países.
+O objetivo deste artigo é testar se a ética protestante apresenta efeitosobre o comportamento dos brasileiros em duas áreas: (i) mercado de tra-balho e empreendedorismo, e (ii) estrutura familiar. Utilizaram-se os mi-crodados do censo demográfico brasileiro de 2010. O censo apresentaum plano amostral complexo, então aplicaram-se três diferentes métodosde estimação com pareamento para amostras complexas. Os resultadosmostraram que o tratamento do protestantismo apresentou efeito signifi-cativo sobre as variáveis de resultado no sentido proposto por Max Weber.
 
-**Palavras-chave:** Empreendedorismo. Crescimento econômico. GEM. GCI.
+**Palavras-chave:** Ética Protestante, Propensity Score Matching, Survey Data
 
 
-# **ADDITIONAL EVIDENCE OF THE RELATIONSHIP BETWEEN ENTREPRENEURSHIP AND ECONOMIC GROWTH** 
+# PROTESTANT ETHICS AND THE SPIRIT OF CAPITALISM: PREFERENCES REGARDING THE LABOR MARKET, ENTREPRENEURSHIP AND THE FAMILY STRUCTURE IN BRAZIL
 **Abstract**            
-This study aims to investigate the impact of entrepreneurship on economic growth. 
-Were used three variables of entrepreneurship from the Global Entrepreneurship Monitor in 
-conjunction with the global competitiveness index elaborated by the World Economic Forum, 
-an indicator that captures the Group of institutions, policies and factors that define the current 
-and medium-term sustainable levels of economic prosperity. For the empirical model the panel 
-data method with control for fixed effects is used for the period between 2006 and 2014. The 
-results show that entrepreneurship is an important factor in explaining economic growth, but its 
-impact depends on the stage of economic development in the countries.
+The purpose of this article is to test whether Protestant ethics has ef-fect on the behavior of Brazilians in two areas: (i) the labor market andentrepreneurship, and (ii) family structure. The microdata from the 2010Brazilian demographic census were used. The census presents a complexsampling plan, so three different estimation methods are applied to com-plex samples. The results showed that the treatment of Protestantism hada significant effect on the outcome variables in the sense proposed by MaxWeber.
 
-**Keywords:** Entrepreneurship. Economic growth. GEM. GCI.
+**Keywords:** Protestant Ethics, Propensity Score Matching, Survey Data
  
