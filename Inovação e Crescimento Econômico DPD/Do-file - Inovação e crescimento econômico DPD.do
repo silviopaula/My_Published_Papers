@@ -1,6 +1,11 @@
 *-----------------------------------------------------------------------------------
 //INOVAÇÃO E CRESCIMENTO ECONÔMICO: UMA ANÁLISE EM PAINEL DINÂMICO PARA  O BRASIL //
 *-----------------------------------------------------------------------------------
+/*
+NOTA: Este do-file não é o original, dado que ao fazermos testes adicionais alteramos o arquivo original, 
+contudo, os resultados aqui obtidos são muito próximos dos apresentados no artigo. 
+*/
+
 * Instalar pacotes
 *ssc install asdoc
 *ssc install ftools

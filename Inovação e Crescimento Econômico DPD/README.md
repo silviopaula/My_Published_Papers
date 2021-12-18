@@ -1,9 +1,9 @@
 #  Inovação e Crescimento Econômico: Uma Análise Em Painel Dinâmico Para o Brasil   
 
-Silvio da Rosa Paula
-Mariana Fialho Ferreira 
-Daniel de Abreu Pereira Uhr                                
-Julia Gallego Ziero Uhr                  
+Silvio da Rosa Paula            
+Mariana Fialho Ferreira               
+Daniel de Abreu Pereira Uhr                                            
+Julia Gallego Ziero Uhr                                    
 
 link: http://editorarevistas.mackenzie.br/index.php/rem/article/view/14324
 
